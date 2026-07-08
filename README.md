@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:512BD4&height=160&section=header&text=Abdullah%20Matin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20.NET%20%26%20PostgreSQL%20%7C%20AI%2FML&descAlignY=55&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:512BD4&height=180&section=header" width="100%" />
 </p>
 
+<h1 align="center">Abdullah Matin</h1>
+<h3 align="center">🚀 Full-Stack Software Engineer | .NET · PostgreSQL · React | AI/ML Explorer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7971E&center=true&vCenter=true&width=550&lines=Building+HR+%26+Attendance+Systems+%F0%9F%92%BB;.NET+%7C+PostgreSQL+%7C+React;Exploring+AI+%2F+ML+%F0%9F%A4%96;Always+debugging%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7971E&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;.NET+%7C+PostgreSQL+%7C+React;Turning+complex+problems+into+clean+code;Exploring+AI+%2F+ML+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,9 +25,10 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🔭 Currently building **HR & attendance management systems** on **.NET / PostgreSQL**
+- 💻 **Full-Stack Software Engineer** building production-grade systems end to end
+- 🔭 Deep in **.NET / ASP.NET Core** backends with **PostgreSQL** at scale
 - 🌱 Exploring **AI-powered applications**, TensorFlow & Hugging Face
-- 🧠 Interested in scalable backend systems, stored-procedure heavy pipelines, and applied ML
+- 🧠 Into scalable backend architecture, stored-procedure heavy data pipelines, and applied ML
 - 💬 Ask me about: `.NET`, `PostgreSQL`, `React`, `AI/ML`
 - 📍 Based in Dhaka, Bangladesh
 - ⚡ Fun fact: it's all fun until the bugs show up 🐞
@@ -35,7 +39,7 @@
 ```text
 class Developer {
   name      = "Abdullah Matin";
-  role      = "Software Developer";
+  role      = "Full-Stack Software Engineer";
   stack     = [".NET", "PostgreSQL", "React"];
   exploring = ["AI/ML", "TensorFlow"];
   currentBug = "always one more";
@@ -74,6 +78,10 @@ class Developer {
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Martian-X1X&layout=compact&theme=radical&border_radius=15&hide_border=true&langs_count=8" width="35%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Martian-X1X&theme=radical&hide_border=true&border_radius=15" width="60%" />
+</p>
+
 <br/>
 
 ## 📈 Contribution Activity
@@ -87,12 +95,12 @@ class Developer {
 ## 📌 Pinned Project
 
 <p align="center">
-  <a href="https://github.com/Martian-X1X">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Martian-X1X&repo=Halda&theme=radical&border_radius=15" />
+  <a href="https://github.com/Martian-X1X/WorkSphere">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Martian-X1X&repo=WorkSphere&theme=radical&border_radius=15" />
   </a>
 </p>
 
-<sub align="center">— replace <code>repo=Halda</code> above with any repo you want to feature; add more `<img>` pin cards side by side for multiple projects —</sub>
+<p align="center"><sub>WorkSphere — multi-tenant project management SaaS built with .NET 8, React, and PostgreSQL</sub></p>
 
 <br/>
 <br/>
