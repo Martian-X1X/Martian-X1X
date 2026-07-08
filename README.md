@@ -51,12 +51,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Martian-X1X&show_icons=true&theme=radical&border_radius=15&hide=prs&count_private=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Martian-X1X&show_icons=true&theme=radical&border_radius=15&hide=prs&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Martian-X1X&theme=radical&hide_border=true&border_radius=15" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martian-X1X&layout=compact&theme=radical&border_radius=15&hide_border=true" width="55%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Martian-X1X&layout=compact&theme=radical&border_radius=15&hide_border=true" width="55%" />
 </p>
 
 <br/>
@@ -64,7 +64,7 @@
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Martian-X1X&theme=radical&row=1&column=6&margin-w=8&no-frame=true" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Martian-X1X&theme=radical&row=1&column=6&margin-w=8&no-frame=true" />
 </p>
 
 <br/>
