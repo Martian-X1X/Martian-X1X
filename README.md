@@ -1,47 +1,40 @@
-<!-- Animated GitHub Profile README -->
-
-<h1 align="center">Hi there, I'm <a href="https://github.com/Martian-X1X" target="_blank">Abdullah Matin</a> 👋</h1>
+<h1 align="center">Hi, I'm Abdullah Matin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+a+Software+Developer+%F0%9F%92%BB;I+%E2%9D%A4%EF%B8%8F+Code+%26+Open+Source!;ML+%7C+AI+%7C+Web+%7C+.NET+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Software+Developer+%F0%9F%92%BB;.NET+%7C+PostgreSQL+%7C+React;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif" />
+  <a href="https://linkedin.com/in/abdullahmatin6920/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdullah.matin6920@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://abdullahmatinportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/abdullahmatin6920">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
----
+<br/>
 
-### 🚀 About Me
+## About Me
 
-- 🔭 I’m currently working on AI-powered applications
-- 🌱 Exploring .NET, TensorFlow & Hugging Face
-- 🧠 Passionate about building ML models & scalable web apps
-- 💬 Ask me about: `.NET`, `AI/ML`, `React`, `PostgreSQL`
-- ⚡ Fun fact: Its All fun till i get Errors/Bugs 🐞❌ 
----
+- 🔭 Currently building HR & attendance management systems on **.NET / PostgreSQL**
+- 🌱 Exploring **AI-powered applications**, TensorFlow & Hugging Face
+- 🧠 Interested in scalable backend systems and applied ML
+- 💬 Ask me about: `.NET`, `PostgreSQL`, `React`, `AI/ML`
+- ⚡ Fun fact: it's all fun until the bugs show up 🐞
 
-### 🔥 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Martian-X1X&show_icons=true&theme=radical&border_radius=15&hide=prs" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Martian-X1X&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
+## Languages & Tools
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Martian-X1X&theme=algolia&row=1&column=6" />
-</p>
-
----
-
-### ⚙️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,python,django,java,mysql,postgres,mongodb,git,docker,linux,cs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,react,nextjs,nodejs,express,python,django,java,postgres,mysql,mongodb,git,docker,linux,tailwind,bootstrap,html,css" />
 </p>
 
 <p align="center">
@@ -53,32 +46,27 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
----
+<br/>
 
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martian-X1X&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Let's Connect
+## GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdullahmatin6920/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:abdullah.matin6920@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://abdullahmatinportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://facebook.com/abdullahmatin6920"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Martian-X1X&show_icons=true&theme=radical&border_radius=15&hide=prs&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Martian-X1X&theme=radical&hide_border=true&border_radius=15" width="48%" />
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 😄</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martian-X1X&layout=compact&theme=radical&border_radius=15&hide_border=true" width="55%" />
 </p>
+
+<br/>
+
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Martian-X1X&theme=radical&row=1&column=6&margin-w=8&no-frame=true" />
+</p>
+
+<br/>
+
+<p align="center"><i>Thanks for stopping by! 🚀</i></p>
